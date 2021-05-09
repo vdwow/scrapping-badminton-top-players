@@ -1,2 +1,2 @@
-# scrapping-badminton-top-players
-A simple scrapper to get the top 100 players from each badminton discipline from the world federation website.
+# Data Scrapping Projects
+A compilation of different scrappers I built both for getting data to feed models and making it accessible on Kaggle for others.
